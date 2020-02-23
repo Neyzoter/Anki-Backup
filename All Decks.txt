@@ -1,0 +1,1 @@
+Redis的底层数据结构?	"简单动态字符表、链表、字典、跳跃表（底层是哈希表）、压缩列表、整数集合<div>参考资料：</div><div>1.Redis的数据结构：<a href=""http://neyzoter.cn/wiki/Redis/#28-redis%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84"">http://neyzoter.cn/wiki/Redis/#28-redis%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84</a><br></div>"
