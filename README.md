@@ -1,3 +1,5 @@
+![Apache license](https://img.shields.io/github/license/Neyzoter/Anki-Backup)
+
 # Anki-Backup
 
 My anki cards' backups.
