@@ -48,7 +48,7 @@ Introduction of Anki, please see [Anki-Introduction-Blog](https://neyzoter.cn/20
 
   In 2020 fall campus recruitment, this cards helped me hunt more than 10 offers, including Alibaba, Pinduoduo, Intel, Didi, C-Trip, Hikvision, VIP, NIO, UISEE, Oppo, Youzan and so on.
 
-  这些卡片帮助我在2021年秋季校园找平中收获超过10个Offer，包括阿里巴巴、拼多多、英特尔、滴滴、携程、海康威视、唯品会、蔚来汽车、驭势科技、Oppo、有赞等。
+  这些卡片帮助我在2021年秋季校园招聘中收获超过10个Offer，包括阿里巴巴、拼多多、英特尔、滴滴、携程、海康威视、唯品会、蔚来汽车、驭势科技、Oppo、有赞等。
 
 # Contact
 
