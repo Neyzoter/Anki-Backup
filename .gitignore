@@ -1,0 +1,7 @@
+*.apkg
+
+*.colpkg
+
+*.txt
+
+.DS_Store
