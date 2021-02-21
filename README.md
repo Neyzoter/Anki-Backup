@@ -1,55 +1,39 @@
 ![Apache license](https://img.shields.io/github/license/Neyzoter/Anki-Backup)
 
-# Anki-Backup
-
-My anki cards' backups.
+# 项目说明
 
 我的Anki八股文卡片备份。
 
-STOP pushing since Aug 9 2020, files are too large.
-
 从2020年8月9日开始停止push到github中，Anki的文件太大了！
 
-New Cards will be uploaded to [RELEASE](https://github.com/Neyzoter/Anki-Backup/releases).
+但是，还是会定期更新到RELEASE中，可以**到[RELEASE](https://github.com/Neyzoter/Anki-Backup/releases)下载最新的Anki文件**。
 
-但是，还是会定期更新到RELEASE中，可以**到RELEASE下载最新的Anki文件**。
+# 使用提示
 
-# Info
+你可以使用[Anki客户端](https://apps.ankiweb.net/)打开文件。
 
-Your can open apkg file by [anki client](https://apps.ankiweb.net/).
+关于Anki的介绍，见我的[博客](https://neyzoter.cn/2020/03/09/Anki-Introduction/)。
 
-你可以使用Anki客户端打开文件。
+卡片中的部分问题和项目有关，比如InfluxDB、MongoDB，并不是校招考察重点。如果自身项目中无相关内容，可以跳过。校招考察重点为Java（如果有时间可以深入看《深入理解Java虚拟机》和《Java并发编程的艺术》，并自行做卡片笔记）、计算机基础（操作系统、计算机网络、计算机组成原理）、数据库（MySql）、算法题。
 
-Introduction of Anki, please see [Anki-Introduction-Blog](https://neyzoter.cn/2020/03/09/Anki-Introduction/).
+# 卡片预览
 
-关于Anki的介绍，见我的博客。
-
-# Preview
-
-预览
-
-* Decks
-
-  卡片目录
+* 卡片目录
 
   <img src="./img/decks.png" width="600" alt="decks" />
 
-* Cards
-
-  卡片预览
+* 卡片预览
 
   <img src="./img/algo.png" width="600" alt="algo" />
 
   <img src="./img/algo-ans.png" width="600" alt="algo-ans" />
 
-# Awards
+# 成果
 
-* 2020 Fall Campus Recruitment
-
-  In 2020 fall campus recruitment, this cards helped me hunt more than 10 offers, including Alibaba, Pinduoduo, Intel, Didi, C-Trip, Hikvision, VIP, NIO, UISEE, Oppo, Youzan and so on.
+* 2020年秋招
 
   这些卡片帮助我在2021年秋季校园找平中收获超过10个Offer，包括阿里巴巴、拼多多、英特尔、滴滴、携程、海康威视、唯品会、蔚来汽车、驭势科技、Oppo、有赞等。
 
-# Contact
+# 联系方式
 
 Email: sonechaochao@gmail.com
