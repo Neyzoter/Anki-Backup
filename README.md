@@ -40,4 +40,4 @@ Email: sonechaochao@gmail.com
 
 公众号：互联网矿工
 
-<img src="./img/互联网矿工.jpg" width="600" alt="wechat push" />
+<img src="./img/互联网矿工.jpg" width="200" alt="wechat push" />
