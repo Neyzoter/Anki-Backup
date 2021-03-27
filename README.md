@@ -37,3 +37,7 @@
 # 联系方式
 
 Email: sonechaochao@gmail.com
+
+公众号：互联网矿工
+
+<img src="./img/wechat-push.png" width="600" alt="wechat push" />
